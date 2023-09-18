@@ -1,0 +1,15 @@
+.values-list {
+  max-width: 350px;
+}
+
+li {
+  list-style-type: none;
+  padding-inline-start: 1ch;
+  word-wrap: break-word; 
+  margin-bottom: 6px;
+}
+
+.li-marker {
+  list-style-type: '👉';
+  padding-inline-start: 1ch;
+}

@@ -1,0 +1,13 @@
+.sort-form {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.selected {
+  border-radius: 5px;
+  background-color: #0dcaf0;
+  border: none;
+  color: #fff
+}

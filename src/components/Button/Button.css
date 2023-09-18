@@ -1,0 +1,9 @@
+.btn {
+  height: 36px;
+  padding: 5px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #96a4a7;
+  border-radius: 5px;
+}
